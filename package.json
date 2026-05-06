@@ -8,7 +8,7 @@
     "coverage": "nyc report --reporter=cobertura",
     "lint": "eslint ."
   },
-  "author": "Hannes Ljungberg",
+  "author": "Nicolas Lehmann",
   "license": "MIT",
   "keywords": [
     "homebridge-plugin",

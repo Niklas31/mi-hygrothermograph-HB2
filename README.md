@@ -320,6 +320,12 @@ Some hardware combinations are problematic and may cause weird troubles like sen
 ## Mi Flora Fertility level notice
 Soil Fertility measures in `μS/cm`. Plugin will expose it as a separate [Light sensor](https://developers.homebridge.io/#/service/LightSensor) and show `lux` instead, due to lack of suitable Characteristic types in HomeKit.
 
+## Credits
+
+Maintained by [Nicolas Lehmann](https://github.com/Niklas31).
+
+Originally created by [Hannes Ljungberg](https://github.com/hannseman).
+
 ## Legal
 
 *Xiaomi* and *Mi* are registered trademarks of BEIJING XIAOMI TECHNOLOGY CO., LTD.
